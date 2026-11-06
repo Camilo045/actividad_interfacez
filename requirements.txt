@@ -1,0 +1,16 @@
+anyio==4.16.0
+certifi==2026.10.23
+flet==1.1.0
+flet-desktop==1.1.0
+h11==0.16.0
+httpcore==1.0.9
+httpx==0.28.1
+idna==3.20
+markdown-it-py==4.2.0
+mdurl==0.1.2
+msgpack==1.2.4
+oauthlib==4.0.1
+Pygments==2.21.0
+repath==0.9.0
+rich==15.0.0
+six==1.17.0
